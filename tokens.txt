@@ -1,2 +1,2 @@
-Token1 guildId1
+Token1MTAzNTk5MjExODczODU1OTE3Nw.GD-H3L.9kpw9Ll2yszCpF5HTByztSwlfVjGVp5H5HkGXc guildId1 1163722346163617814
 Token2 guildId2
